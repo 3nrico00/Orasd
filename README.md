@@ -1,5 +1,5 @@
-# Orasd: 
-Online Regression Analysis for Streaming DataThis repository contains a review paper written as the final exam for the PhD course "Theory and Methods of Inference". The paper is **not published** and has **not undergone peer review**. It is intended for academic discussion and as a reference for students and researchers interested in online regression methods for streaming data.
+# Orasd: Online Regression Analysis for Streaming Data
+This repository contains a review paper written as the final exam for the PhD course "Theory and Methods of Inference". The paper is **not published** and has **not undergone peer review**. It is intended for academic discussion and as a reference for students and researchers interested in online regression methods for streaming data.
 
 ## Contents
 - `Review-Paper.pdf`: Main review document.
